@@ -1,0 +1,4 @@
+﻿  bagtestmain.cpp
+c:\users\mding\source\repos\final_pa1_spring2021_mikaylaingco\final_pa1_spring2021_mikaylaingco\book.h(78): warning C4005: 'INFINITY': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt_math.h(90): note: see previous definition of 'INFINITY'
+  Final_PA1_Spring2021_MikaylaIngco.vcxproj -> C:\Users\mding\Source\repos\Final_PA1_Spring2021_MikaylaIngco\Debug\Final_PA1_Spring2021_MikaylaIngco.exe
