@@ -1,2 +1,2 @@
 # Bag-Dictionary
-Implement a dictionary using a bag.
+A program to implement a dictionary using a bag of key-value pairs.
